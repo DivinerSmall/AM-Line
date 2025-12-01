@@ -39,5 +39,5 @@ Experimental messenger without message history; only live typing fields for part
 - Нет списков "кто что когда отправил".
 - Упор на эфемерность и эффект "живого эфира".
 
-Автор идеи: [DivinerSmall]  
+Автор идеи: DivinerSmall  
 Дата первоначального описания: 2025-12-01
